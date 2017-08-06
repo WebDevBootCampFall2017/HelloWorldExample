@@ -1,0 +1,6 @@
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\bin\Debug\ControlLogic.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\bin\Debug\ControlLogic.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\bin\Debug\ControlLogic.pdb
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\obj\Debug\ControlLogic.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ControlLogic\obj\Debug\ControlLogic.pdb

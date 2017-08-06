@@ -1,0 +1,6 @@
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\bin\Debug\WhileLoop.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\bin\Debug\WhileLoop.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\bin\Debug\WhileLoop.pdb
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\obj\Debug\WhileLoop.exe
+c:\users\namin\documents\visual studio 2017\Projects\HelloWorld\WhileLoop\obj\Debug\WhileLoop.pdb

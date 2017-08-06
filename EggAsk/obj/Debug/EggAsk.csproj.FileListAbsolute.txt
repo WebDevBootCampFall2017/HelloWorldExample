@@ -1,0 +1,6 @@
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\bin\Debug\EggAsk.exe.config
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\bin\Debug\EggAsk.exe
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\bin\Debug\EggAsk.pdb
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\obj\Debug\EggAsk.exe
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\obj\Debug\EggAsk.pdb
+C:\Users\namin\Documents\Visual Studio 2017\Projects\HelloWorld\EggAsk\obj\Debug\EggAsk.csprojResolveAssemblyReference.cache
